@@ -2,4 +2,4 @@
 
 🩸💪 Be a hero, donate blood! 🦸‍♂️🦸‍♀️
 
-![Demo Screenshot](BloodDonationApp/Content/Template/images/front.png)
+![Demo Screenshot](BloodDonationApp/Content/Template/images/homepage.png)
